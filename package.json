@@ -1,0 +1,25 @@
+{
+  "name": "imdbProj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./conf/conf.js",
+  "scripts": {
+    "start": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/vivek05/IMDBTrainingProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/vivek05/IMDBTrainingProject/issues"
+  },
+  "homepage": "https://gitlab.com/vivek05/IMDBTrainingProject#README",
+  "dependencies": {
+    "jasmine": "^3.1.0",
+    "protractor": "^5.3.2",
+    "sqlite": "^2.8.17"
+  }
+}
